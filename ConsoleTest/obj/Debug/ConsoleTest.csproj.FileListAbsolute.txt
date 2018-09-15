@@ -1,0 +1,7 @@
+C:\Users\TinhNgo\source\repos\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\TinhNgo\source\repos\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\TinhNgo\source\repos\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\TinhNgo\source\repos\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\TinhNgo\source\repos\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\TinhNgo\source\repos\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\TinhNgo\source\repos\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
